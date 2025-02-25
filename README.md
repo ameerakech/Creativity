@@ -1,1 +1,1 @@
-# Addd a pdf file cointainig school rules
+# Added a pdf file cointainig school rules
